@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  color: #222222;
+  background-color: #E5E5E5;
+  background-image: url(" ");
+  background-repeat: no-repeat;
+  background-position: top center;
+  text-align: center;
+}
+
+.header_menu li{
+  display: inline-block;
+  margin-right: 1em;
+}
+
+.main-greeting-text{
+   width: 150px;
+}
+
+.main-greeting li{
+  display: inline-block;
+  text-align: left;
+  width: 380px;
+  margin-right: 1em;
+}
+
+.get-order li{
+  display: inline-block;
+  text-align: left;
+  width: 300px;
+  margin-right: 1em;
+}
+
+.reviews li{
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: center left;
+  text-align: center;
+  width: 300px;
+  margin-right: 3em;
+}
+
+.advantage-head li{
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: center left;
+  text-align: center;
+  width: 250px;
+  margin-right: 1em;
+}
+
+.advantage-foursteps li{
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-align: center;
+  width: 250px;
+  margin-right: 1em;
+  
+}
+
+
+
+.advantage-shipment {
+  padding-left: 100px;
+  background-image: url("img/advantage_shipment.svg");
+}
+
+.advantage-shipment-steps {
+  padding-top: 100px;
+  background-image: url("img/advantage_shipment.svg");
+}
+
+.advantage-fresh {
+  padding-left: 100px;
+  background-image: url("img/advantage_fresh.svg");
+}
+
+.advantage-photo {
+  padding-left: 100px;
+  background-image: url("img/advantage_photo.svg");
+}
+
+.advantage-consultant {
+  padding-top: 100px;
+  background-image: url("img/advantage_consultant.svg");
+}
+
+.advantage-payment {
+  padding-top: 100px;
+  background-image: url("img/advantage_payment.svg");
+}
+
+.advantage-order {
+  padding-top: 100px;
+  background-image: url("img/advantage_order.svg");
+}
+
+.footer_menu li{
+  display: inline-block;
+  margin-right: 1em;
+}
+
+.catalog li{
+  display: inline-block;
+  margin-right: 1em;
+}
